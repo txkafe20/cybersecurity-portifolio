@@ -1,0 +1,17 @@
+# Network Structure and Security Analysis
+
+## Objective
+Analyzed a sample company network to identify potential weaknesses in topology, firewall configuration, and traffic flow.
+
+## Key Tasks
+- Mapped the network using a topology diagram.
+- Identified open ports and unnecessary services.
+- Recommended segmentation between public and private networks.
+
+## Tools Used
+- Wireshark
+- Nmap
+- Draw.io (for diagramming)
+
+## Outcome
+Improved understanding of network defense and monitoring strategies for intrusion detection and prevention.
