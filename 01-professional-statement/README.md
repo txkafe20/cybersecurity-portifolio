@@ -1,5 +1,6 @@
 Tiwonge Kafera
  Cybersecurity Professional | SOC Analyst | Security Operations | IT Support
+ 
 I am a cybersecurity professional with a background in Health Humanities and IT Support, focused on protecting systems, networks, and data through security monitoring, risk assessment, vulnerability analysis, and proactive defense strategies.
 My technical foundation includes cybersecurity operations, system administration, networking, programming, and security tools. I have completed the Google Cybersecurity Professional Certificate, Google IT Support Professional Certificate, CompTIA Security+ certification, and CompTIA A+ training. I have also completed advanced C programming and C/Assembly integration coursework, strengthening my understanding of low-level programming, memory management, and system security.
 Through hands-on cybersecurity labs and projects, I have developed experience with Security Operations Center (SOC) workflows, log analysis, incident response, vulnerability assessment, Active Directory security concepts, network traffic analysis using Wireshark, SIEM monitoring with Splunk, and infrastructure security using tools such as Terraform and AWS CLI.
